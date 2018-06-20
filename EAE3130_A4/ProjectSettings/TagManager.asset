@@ -7,6 +7,9 @@ TagManager:
   - TAG_PLAYER
   - TAG_ENEMY
   - TAG_CAKE
+  - ENEMY
+  - CAKE
+  - TAG_TRIG
   layers:
   - Default
   - TransparentFX
